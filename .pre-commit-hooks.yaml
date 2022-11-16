@@ -3,4 +3,4 @@
   description: format solidity code with `forge fmt`
   language: system
   entry: forge fmt
-  pass_filenames: false
+  pass_filenames: true
